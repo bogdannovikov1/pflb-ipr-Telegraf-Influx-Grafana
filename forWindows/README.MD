@@ -25,8 +25,6 @@ Database: jmeter<br/>
 8) Перейти в Dashboards, Create dashboard, import dashboard, discard<br/>
 Вставить 928 (или 5955) в поле с Grafana.com dashboard or ID<br/>
 Нажать Load справа, выбрать data source influxdb-telegraf и нажать import
-9) Перейти в Dashboards, Create dashboard, import dashboard, discard<br/>
-Вставить 5496 в поле с Grafana.com dashboard or ID<br/>
-Нажать Load справа, выбрать data source influxdb-telegraf и нажать import
+9) По аналогии добавить дашборд с id 5496 для data source influxdb-jmeter<br/>
 10) В скрипте jmeter настроить Backend Listener таким образом:
 
