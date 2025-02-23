@@ -6,7 +6,7 @@
 -> <code>  .\download-influx.ps1 </code><br/>
 3) Отредактировать файл <code>telegraf.conf</code> при необходимости
 4) Выполнить: <br/>
--> <code>  START_TELEGRAF_INFLUX_GRAFANA.ps1 </code><br/>
+-> <code>  .\START_TELEGRAF_INFLUX_GRAFANA.ps1 </code><br/>
 Сначала откроются логи influx, затем консоль influx, затем логи телеграф, затем логи графаны.<br/>
 Eсли все хорошо, то в логи influx будут периодически поступать post запросы из telegraf<br/>
 Если нужно выключить компонент, нажимайте Ctrl+C.<br/>
