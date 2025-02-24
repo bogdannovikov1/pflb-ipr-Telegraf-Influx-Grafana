@@ -32,4 +32,5 @@ Database: jmeter<br/>
 ![jmeter](https://github.com/bogdannovikov1/pflb-ipr-Telegraf-Influx-Grafana/blob/main/forWindows/influx-cosole1.png)<br/>
 Чтобы создать новую бд введите:<br/>
 <code>CREATE DATABASE my_new_db</code><br/>
-Если нужно более тесное взаимодейтвие с БД используйте: https://github.com/CymaticLabs/InfluxDBStudio?tab=readme-ov-file#installation
+Если нужно более тесное взаимодейтвие с БД используйте: https://github.com/CymaticLabs/InfluxDBStudio?tab=readme-ov-file#installation<br/>
+Документация по InfluxQL https://docs.influxdata.com/influxdb/v1/query_language/explore-schema/<br/>
