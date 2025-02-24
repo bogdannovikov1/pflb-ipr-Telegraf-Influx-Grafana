@@ -27,4 +27,4 @@ Database: jmeter<br/>
 Нажать Load справа, выбрать data source influxdb-telegraf и нажать import
 9) По аналогии добавить дашборд с id 5496 для data source influxdb-jmeter<br/>
 10) В скрипте jmeter настроить Backend Listener таким образом:
-
+![jmeter](https://github.com/bogdannovikov1/pflb-ipr-Telegraf-Influx-Grafana/blob/main/forWindows/jmeter-scren.jpg)
