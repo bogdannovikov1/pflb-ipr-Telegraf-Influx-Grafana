@@ -29,3 +29,6 @@ Database: jmeter<br/>
 10) В скрипте jmeter настроить Backend Listener таким образом:
 ![jmeter](https://github.com/bogdannovikov1/pflb-ipr-Telegraf-Influx-Grafana/blob/main/forWindows/jmeter-scren.jpg)<br/><br/>
 Чтобы почистить бд в консоли influx введите:
+![jmeter](https://github.com/bogdannovikov1/pflb-ipr-Telegraf-Influx-Grafana/blob/main/forWindows/influx-cosole1.png)<br/>
+Чтобы создать новую бд введите:<br/>
+<code>CREATE DATABASE my_new_db</code><br/>
